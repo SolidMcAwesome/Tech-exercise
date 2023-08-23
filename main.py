@@ -1,6 +1,5 @@
 '''
 Created by Tise Olayinka
-Date Created: 22 Aug 2023
 Date Modified: 23 Aug 2023
 Time Spent: 3-4 hours
 Content:
